@@ -4,7 +4,7 @@ module.exports = {
         "info": "create a node project base gfe",
         "config": {
             "type": "github",
-            "repos": "midday/gfe-node-project-template",
+            "repos": "gomeFED/gfe-node-project-template",
             "prompt": [{
                 name: "project_name",
                 description: "Enter your project name",
@@ -23,7 +23,7 @@ module.exports = {
         "info": "create a web project base freemarker and gfe",
         "config": {
             "type": "github",
-            "repos": "midday/gfe-web-project-template",
+            "repos": "gomeFED/gfe-web-project-template",
             "prompt": [{
                 name: "project_name",
                 description: "Enter your project name",
